@@ -7,24 +7,27 @@ Contact:
 - Ondřej Týbl - tybl@karlin.mff.cuni.cz
 - Karel Kozmík - kozmikk@karlin.mff.cuni.cz
 
+**Changes:**
+- Practicals from 31. 3. are swapped with the lecture from 24. 3. — this means two lectures one week, followed by two practicals the next week.
+
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
-| Date      | Topic                | Lecturer |
-|-----------|----------------------| ------- |
-| 17.2.2026 | Intro                | Karel
-| 24.2.2026 | Decision Trees I     | Vaclav
-| 24.2.2026  | Decision Trees II    | Vaclav
-| 10.3.2026 | Decision Trees III   | Karel
-| 17.3.2026 | Decision Trees IV    | Karel
-| 24.3.2026 | Neural Networks I    | Ondřej
-| 31.3.2026  | Neural Networks II   | Ondřej
-| 7.4.2026  | Neural Networks III  | Ondřej
-| 14.4.2026 | Neural Networks IV   | Ondřej
-| 21.4.2026 | Neural Networks V    | Ondřej
-| 28.4.2026 | Neural Networks VI   | Ondřej
-| 5.5.2026  | Neural Networks VII  | Ondřej 
-| 12.5.2026 | TBA   | TBA
-| 19.5.2026 | Exam        | TBA
+| Date      | Topic               | Lecturer |
+|-----------|---------------------| ------- |
+| 17.2.2026 | Intro               | Karel
+| 24.2.2026 | Decision Trees I    | Vaclav
+| 24.2.2026  | Decision Trees II   | Vaclav
+| 10.3.2026 | Decision Trees III  | Karel
+| 17.3.2026 | Decision Trees IV   | Karel
+| 24.3.2026 | [Neural Networks I](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_Perceptron.pdf)   | Ondřej
+| ~~31.3.2026~~ 24.3.2026  | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LossFunctions.pdf)  | Ondřej
+| 7.4.2026  | [Neural Networks III](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_Training.pdf) | Ondřej
+| 14.4.2026 | [Neural Networks IV](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_ConvolutionNeuralNetworksI.pdf)  | Ondřej
+| 21.4.2026 | [Neural Networks V](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_ConvolutionNeuralNetworksII.pdf)   | Ondřej
+| 28.4.2026 | [Neural Networks VI](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_TextEmbeddings.pdf)  | Ondřej
+| 5.5.2026  | Neural Networks VII | Ondřej 
+| 12.5.2026 | Guest Lecture       | Marek Židek
+| 19.5.2026 | Exam                | TBA
 
 ## Practicals plan
 | Date      | Topic                            | Lecturer |
@@ -32,14 +35,14 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 17.2.2026 | Intro + Environment setup        | Karel
 | 3.3.2026 | [Data Science Basics I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/ML_basics.ipynb)            | Ondřej
 | 3.3.2026  | [Data Science Basics II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/ML_basics.ipynb)           | Ondřej
-| 10.3.2026 | Decision Trees I                 | Karel
-| 17.3.2026 | Decision Trees II                | Karel
-| 24.3.2026 | Decision Trees III               | Karel
-| 31.3.2026 | Hyperparameters Optimization     | Karel
-| 7.4.2026  | Neural Networks I                | Ondřej
-| 14.4.2026 | Neural Networks II               | Ondřej
-| 21.4.2026 | Neural Networks III              | Ondřej
-| 28.4.2026 | Neural Networks IV               | Ondřej 
+| 10.3.2026 | [Decision Trees I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/02_decision_trees/trees_and_forest.ipynb)                 | Karel
+| 17.3.2026 | [Decision Trees II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/02_decision_trees/trees_and_forest.ipynb)                | Karel
+| ~~24.3.2026~~ 31.3.2026 | [Decision Trees III](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/02_decision_trees/xgboost.ipynb)               | Karel
+| 31.3.2026 | [Hyperparameters Optimization](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/03_hyperparameter_optimization/hyperparameters_optimization.ipynb)     | Karel
+| 7.4.2026  | [Neural Networks I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_introduction.ipynb)                | Ondřej
+| 14.4.2026 | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_mnist.ipynb)               | Ondřej
+| 21.4.2026 | [Neural Networks III](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_convolutions.ipynb)              | Ondřej
+| 28.4.2026 | [Neural Networks IV](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_finetuning.ipynb)               | Ondřej 
 | 5.5.2026  | Neural Networks V                | Ondřej
 | 12.5.2026 | Neural Networks VI               | Ondřej
 | 19.5.2026 | Exam                             | TBA
